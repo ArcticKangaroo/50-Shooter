@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-  <img src="logo.png" alt="Logo" width="80" height="80">
+  <img src="README/Logo.png" alt="Logo" width="80" height="80">
   <h3 align="center">50 Shooter</h3>
   <p align="center"><i>A top-down arcade shooter made using Unity and C#</i></p>
 </div>
@@ -13,6 +13,8 @@
     <li><a href="#license">License</a></li>
   </ol>
 </details>
+
+![](https://github.com/ArcticKangaroo/50-Shooter/README/Gameplay.gif)
 
 ## About the Project
 An endless top down shooter game where you have to defend yourself by attacking enemies to rack up points, until they finally overpower you. 
