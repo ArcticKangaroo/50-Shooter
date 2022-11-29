@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-  <img src="icon.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/ArcticKangaroo/50-Shooter/"><img src="icon.png" alt="Logo" width="80" height="80"></a>
   <h3 align="center">50 Shooter</h3>
   <p align="center"><i>A top-down arcade shooter made using Unity and C#</i></p>
 </div>
