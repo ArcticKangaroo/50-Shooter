@@ -2,7 +2,7 @@
 <div align="center">
   <img src="logo.png" alt="Logo" width="80" height="80">
   <h3 align="center">50 Shooter</h3>
-  <p align="center">A top-down arcade shooter made using Unity and C#</p>
+  <p align="center"><i>A top-down arcade shooter made using Unity and C#</i></p>
 </div>
 </br>
 <details>
