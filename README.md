@@ -12,6 +12,7 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#how-to-run">How To Run</a></li>
+    <li><a href="#gameplay">Gameplay</a></li>
     <li><a href="#post-mortem">Post Mortem</a></li>
     <li><a href="#license">License</a></li>
   </ol>
@@ -30,6 +31,9 @@ An endless top down shooter game where you have to defend yourself by attacking 
 
 ## How To Run
 Download `50 Shooter.zip` from the [Releases](https://github.com/ArcticKangaroo/50-Shooter/releases/) page. Uncompress and run `50 Shooter.exe`.
+
+## Gameplay
+![Gameplay](https://user-images.githubusercontent.com/62847649/204509513-8f4db52b-6e0e-4209-9390-3d5c49bd1f20.gif)
 
 ## Post Mortem
 - I designed a game map and provided a set of enemy spawn points to an Enemy Spawner script, which instantiates an enemy at intervals of time getting shorter as the game progresses, to add more difficulty. Each enemy also spawns with a random speed to shake things up a bit and add some variety.
