@@ -14,9 +14,10 @@
   </ol>
 </details>
 
+## About the Project
+
 ![](https://github.com/ArcticKangaroo/50-Shooter/README/Gameplay.gif)
 
-## About the Project
 An endless top down shooter game where you have to defend yourself by attacking enemies to rack up points, until they finally overpower you. 
 
 ##### Some quick details:
