@@ -10,7 +10,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#about">About</a></li>
     <li><a href="#how-to-run">How To Run</a></li>
     <li><a href="#gameplay">Gameplay</a></li>
     <li><a href="#post-mortem">Post Mortem</a></li>
@@ -18,7 +18,7 @@
   </ol>
 </details>
 
-## About The Project
+## About
 An endless top down shooter game where you have to defend yourself by attacking enemies to rack up points, until they finally overpower you. 
 
 ##### Some quick details:
