@@ -29,7 +29,7 @@ An endless top down shooter game where you have to defend yourself by attacking 
 - Platform: Windows (can be compiled for Linux & Mac too)
 
 ## How To Run
-Download '50 Shooter.zip' from the [Releases](https://github.com/ArcticKangaroo/50-Shooter/releases/) page. Uncompress and run '50 Shooter.exe'.
+Download `50 Shooter.zip` from the [Releases](https://github.com/ArcticKangaroo/50-Shooter/releases/) page. Uncompress and run `50 Shooter.exe`.
 
 ## Post Mortem
 - I designed a game map and provided a set of enemy spawn points to an Enemy Spawner script, which instantiates an enemy at intervals of time getting shorter as the game progresses, to add more difficulty. Each enemy also spawns with a random speed to shake things up a bit and add some variety.
