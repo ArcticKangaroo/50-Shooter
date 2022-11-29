@@ -4,7 +4,9 @@
   <h3 align="center">50 Shooter</h3>
   <p align="center"><i>A top-down arcade shooter made using Unity and C#</i></p>
 </div>
-</br>
+
+![Screenshot](https://user-images.githubusercontent.com/62847649/204500989-8ba21d1e-62ed-4c28-9e76-d2ccf5e89add.png)
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,9 +19,6 @@
 </details>
 
 ## About The Project
-
-![image](https://user-images.githubusercontent.com/62847649/204500989-8ba21d1e-62ed-4c28-9e76-d2ccf5e89add.png)
-
 An endless top down shooter game where you have to defend yourself by attacking enemies to rack up points, until they finally overpower you. 
 
 ##### Some quick details:
