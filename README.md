@@ -43,4 +43,4 @@ Download `50 Shooter.zip` from the [Releases](https://github.com/ArcticKangaroo/
 - Lastly, I used the Unity particle system to add some visual effects when the player or an enemy dies. This was probably my favourite part of this project, because the result ends up looking really cool.
 
 ## License
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
