@@ -13,7 +13,6 @@
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#how-to-run">How To Run</a></li>
     <li><a href="#post-mortem">Post Mortem</a></li>
-    <li><a href="#how-to-run">What Can Be Improved</a></li>
     <li><a href="#license">License</a></li>
   </ol>
 </details>
@@ -42,20 +41,6 @@ Download `50 Shooter.zip` from the [Releases](https://github.com/ArcticKangaroo/
 - I created a screen space UI using a Canvas along with Text to display basic information such as the score and the player health bar. For the enemy health bars, I used a world space canvas to make the health bars follow the enemy characters.
 
 - Lastly, I used the Unity particle system to add some visual effects when the player or an enemy dies. This was probably my favourite part of this project, because the result ends up looking really cool.
-
-
-## What Can Be Improved
-Here is a list of things I would be interested in improving/adding to the game if I continue it:
-
-- Make better graphics - replace the current player and enemy models with properly made and detailed 3D characters (drones, perhaps? Or robots?)
-
-- Add XP drops and health drops.
-
-- Add waves/levels, and having randomly-generated varied maps.
-
-- Add more variations to enemies.
-
-- Add different types of attacks, which the player can use (for example, a flamethrower.)
 
 ## License
 Distributed under the MIT License. See `LICENSE.txt` for more information.
