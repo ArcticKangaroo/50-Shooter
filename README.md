@@ -10,6 +10,7 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#how-to-run">How To Run</a></li>
+    <li><a href="#post-mortem">Post Mortem</a></li>
     <li><a href="#how-to-run">What Can Be Improved</a></li>
     <li><a href="#license">License</a></li>
   </ol>
