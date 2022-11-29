@@ -1,9 +1,8 @@
 <br/>
 <div align="center">
   <img src="logo.png" alt="Logo" width="80" height="80">
-  <h2 align="center">50 Shooter</h2>
+  <h3 align="center">50 Shooter</h3>
   <p align="center">A top-down arcade shooter made using Unity and C#</p>
-  <hr>
 </div>
 </br>
 <details>
@@ -11,10 +10,9 @@
   <ol>
     <li><a href="#about-the-project">About the Project</a></li>
     <li><a href="#how-to-run">How to Run</a></li>
-    <li><a href="#license">LIcense</a></li>
+    <li><a href="#license">License</a></li>
   </ol>
 </details>
-</br>
 
 ## About the Project
 An endless top down shooter game where you have to defend yourself by attacking enemies to rack up points, until they finally overpower you. 
@@ -27,7 +25,7 @@ An endless top down shooter game where you have to defend yourself by attacking 
 - Time to make: ~6 days
 - Platform: Windows (can be compiled for Linux & Mac too)
 
-### How to Run
+## How to Run
 Download '50 Shooter.zip' from the [Releases](https://github.com/ArcticKangaroo/50-Shooter/releases/) page.
 
 
